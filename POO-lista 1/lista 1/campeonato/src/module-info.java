@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author joaoe
+ *
+ */
+module campeonato {
+}
